@@ -19,6 +19,10 @@ O objetivo deste projeto é fornecer um exemplo claro e conciso de como usar o Z
 
 --- 
 
+## Demonstração
+![Alt Text](assets/zustand_demonstração.gif)
+
+
 Estrutura de Pastas:
 - `src/`: Contém todo o código-fonte da aplicação.
   - `components/`: Componentes reutilizáveis da aplicação.
