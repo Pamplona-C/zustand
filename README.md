@@ -43,12 +43,12 @@ Para testar esta aplicação em sua máquina local, siga estas etapas:
 
 1. Clone este repositório em sua máquina local usando o seguinte comando:
 ```
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/seu-usuario/zustand.git
 ```
 
 2. Navegue até o diretório do projeto:
 ```
-cd nome-do-repositorio
+cd zustand
 ```
 
 
