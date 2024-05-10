@@ -1,0 +1,2 @@
+## Gerenciamento de Estados com ZUSTAND
+O Zustand é uma biblioteca leve e simples para gerenciamento de estado em aplicações React. Ele fornece uma API fácil de usar para criar e compartilhar estados entre componentes de forma eficiente. Com o Zustand, você pode criar stores de estado independentes que podem ser facilmente acessados e atualizados por diferentes partes da sua aplicação, sem a necessidade de usar contextos complexos ou reducers. Ele é especialmente útil para aplicações menores ou médias, onde o Redux pode parecer excessivo.
